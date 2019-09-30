@@ -35,58 +35,6 @@ h2{
     font-size: 30px;
     color: #AFC33D;
     margin: 40px 0 10px;
-}
-.box{
-    padding: 10 px;
-    Margin: 30px 0;
-}
-.box-1{
-    background-color: #FF6EB9; 
-    display: inline;
-}
-.box-2{background-color: aqua;}
-
-.popup{
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-.popup .blanket{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: rgba(0,0,0,.7);
-}
-
-.popup .content{
-    box-sizing: border-box;
-    padding: 20 px;
-    position: absolute;
-    background-color: white;
-    width: 400 px;
-    height: 300 px;
-    top: 50%;
-    margin-top: -150px;
-    left: 50%;
-    margin-left: -200 px;
-}
-
-.popup .close{
-    border: none;
-    background-color: 773300;
-    color: white;
-    padding: 10 px;
-    font-size: 20px;
-    font-weight: bold;
-    position: absolute;
-    top: -20 px;
-    right: -30 px;
-    cursor: pointer;
-}
 
 a{
     color: #AFC33D;    
